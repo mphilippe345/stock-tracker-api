@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: stock-tracker-api
+aws:
+  credentials:
+    access-key: AKIAZBZD3QB7GVN7DKPC
+    secret-key: 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
+  region: us-east-1
+  lambda:
+    function-name: retrieve-stock-data
